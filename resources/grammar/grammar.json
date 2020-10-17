@@ -1,0 +1,73 @@
+{
+	"startCog": ["<p>{intro}, {cognomen}, {brief}. {description}.</p>"],
+	"startNoCog": ["<p>{intro}, {brief}. {description}.</p>"],
+	"intro": ["<b>$actorName</b>﹙$birthDate BC - $deathDate BC﹚"],
+	"cognomen": ["commonly known as <b>$identifier</b>", "better known by his cognomen <b>$identifier</b>"],
+	"brief":["was a Roman {position}, {briefMain}"],
+	"position":["$role and $descriptor", "$role", "politician {roleAddition}", "former $role", "former $role and $descriptor"],
+	"roleAddition": ["and $role", "and $descriptor"],
+	
+	"briefMain": ["{briefIntro} {briefDetail}"],
+	"briefIntro": ["remembered for", "mainly remembered for", "popularly known for", "famous for"],
+	"briefDetail": ["{contribution}, as well as {relationship}", "{relationship}, as well as {contribution}", "{relationship}", "{contribution}"],
+	
+	"contribution": ["his contributions with $contribution", "$contribution, with {contributionVariants}"],
+	"contributionVariants" : [
+	"$identifier earning significant fame in Rome",
+	"$identifier becoming famous among leading $descriptors of Rome",
+	"$identifier rapidly becoming one of the leading $descriptors of Rome",
+	"$descriptors of Rome seeing $identifier as one of their finest minds"
+	],
+	"military leader": ["his military treatise {contributionLink}", "his various writings on military strategy, most notably {contributionLink}"],
+	"orator": ["his great speech {contributionLink}", "his famous speech {contributionLink}, made to the senate", "his controversial senatorial speech known as the {contributionLink} address"],
+	"philosopher":["his works on human thinking {contributionLink}", "his philosophical work {contributionLink}"],
+	"engineer": ["the construction of the {contributionLink} highway", "the planning of the {contributionLink} across the city of Rome"],
+	"politician": ["his famous historical account {contributionLink}"],
+	"contributionLink": ["<i><a href=\"\">$lorem</a></i>"],
+	
+	"relationship": ["{relationSetup}, $relText"],
+	"relationSetup":[
+		"being the $relation of {relationLink}"
+	],
+	"relationLink": ["<a href=\"../$relPosition/$relationName.html\">$relationName</a>"],
+	
+	"Insulted": ["critic"],
+	"Praised": ["supporter"],
+	"Kin": ["kin", "kinsman"],
+	"Sibling": ["brother", "sibling"],
+	"Child": ["son", "child", "offspring"],
+	"Ally": ["main supporter", "ally", "political supporter", "source of income"],
+	"Cousin": ["cousin", "kinsman", "kin"],
+	"Rival": ["rival", "famous rival"],
+	"Bitter Foe": ["bitter foe", "enemy"],
+	"Served Together": ["military companion", "military ally"],
+	
+	"InsultedDesc": ["$identifier famously insulting $relationName in the senate."],
+	"PraisedDesc": ["$identifier praising $relationName in the senate during his period of censorship"],
+	"KinDesc": ["being one of the only members of his family he could trust"],
+	"SiblingDesc": ["often opposing eachother in key legislation and several speeches"],
+	"ChildDesc": ["who used the name recognition brought by his father for his own progression"],
+	"AllyDesc": ["often working with him to push legislation and eliminate rivals"],
+	"CousinDesc": ["plotting together during serveral key moments of Republic history"],
+	"RivalDesc": ["opposing him throughout his career and often coming to blows in the streets of Rome"],
+	"Bitter FoeDesc": ["famously ordering his assassination in the senatorial chamber"],
+	"Served TogetherDesc": ["serving together during the campaigns in <a href=\"\">{servedLocation}</a>"],
+	"servedLocation": ["Illyria","Pontus","Gaul","Britannia","Carthage","Greece"],
+	
+	"description": ["{location}, {riseDesc}", "{location} {originSupp}, {riseDesc}"],
+	"location": ["Born in {locationDescription}", "Spending much of his life in {locationDescription}"],
+	"originSupp": ["to unknown parents", "as the son of a local magistrate", "as the son of a soldier", "as a local $descriptor", "as a local $descriptor", "as a $descriptor", "as a $descriptor"],
+	"locationDescription": ["the $locationType of {locationName}", "{locationName}", "{randLocation}"],
+	"randLocation": ["{randOrigin}", "the small town of {randOrigin}", "the small city of {randOrigin}", "the village of {randOrigin}"],
+	"riseDesc": ["$identifier quickly rose to become a $role in the Roman Republic", "$identifier remained unknown for many years before quickly becoming a $role in the late Roman Republic", "established himself as a progidy among his peers, quickly rising to be famed among $roles during his career"],
+	"randOrigin": ["<a href=\"\">$randOrigin</a>"],
+	"locationName": ["<a href=\"\">$locationName</a>"],
+
+	
+	"subtext": [
+		"Bust of $identifier made {bustDate}, found during excavation work in ruins outside of <a href=\"\">$randSubtext</a>."
+	],
+	"bustDate": ["during his lifetime", "in the {dynasty} dynasty"],
+	"dynasty": ["Julio-Claudian", "Flavian", "Severan", "Gordian", "Decian", "Constantinian", "Theodosian"]
+}
+

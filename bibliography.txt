@@ -1,0 +1,38 @@
+Libraries used ---- 
+https://github.com/AlmasB/grammy
+http://commons.apache.org/proper/commons-io/download_io.cgi
+https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple
+https://mvnrepository.com/artifact/com.thedeanda/lorem/2.1
+
+Image Sources ----
+0.jpg: 	https://www.metmuseum.org/art/collection/search/248851
+1.jpg: 	http://www.rome101.com/Portraiture/Tiberius/090926S_3823.html
+2.jpg: 	https://en.wikipedia.org/wiki/Domitian#/media/File:Pseudo-Vitellius_Louvre_MR684.jpg
+3.jpg: 	https://www.pinterest.co.uk/pin/650348002415252917/
+4.jpg: 	https://www.britishmuseum.org/collection/object/H_1848-1103-1
+5.jpg: 	https://www.deviantart.com/ellenm1/art/Emperor-Titus-Flavius-Domitianus-272582221
+6.jpg: 	http://ancientrome.ru/art/artworken/img.htm?id=4167
+7.jpg: 	https://www.pinterest.co.uk/pin/343610646546577888/
+8.jpg: 	https://www.pinterest.co.uk/pin/597430706800551209/
+9.jpg: 	https://www.pinterest.co.uk/pin/484770347360507444/
+10.jpg: https://www.pinterest.co.uk/pin/354799276864210479/
+11.jpg: https://www.pinterest.co.uk/pin/343610646546277977/
+12.jpg: https://www.pinterest.co.uk/pin/19492210872733537/
+13.jpg: https://www.ancient.eu/Maximinus_Thrax/
+14.jpg: https://www.pinterest.co.uk/pin/514958538627662300/
+15.jpg: https://www.pinterest.co.uk/pin/454300681152509772/
+16.jpg: https://www.pinterest.co.uk/pin/343610646546848017/
+17.jpg: https://readtiger.com/wkp/en/Pliny_the_Elder
+18.jpg: https://commons.wikimedia.org/wiki/Category:Magnus_Maximus#/media/File:Magno_M%C3%A1ximo_(emperador).jpg
+19.jpg: https://www.britishmuseum.org/collection/object/G_1805-0703-93
+20.jpg: https://www.pinterest.co.uk/pin/540150549054661151/
+21.jpg: https://digital.library.fordham.edu/digital/collection/Hist/id/150
+22.jpg: https://en.wikipedia.org/wiki/Galba#/media/File:Stockholm_-_Antikengalerie_4_-_B%C3%BCste_Kaiser_Galba.jpg
+23.jpg: https://en.wikipedia.org/wiki/Capitoline_Brutus#/media/File:Capitoline_Brutus_Musei_Capitolini_MC1183.jpg
+24.jpg: https://www.flickr.com/photos/roger_ulrich/4041599330
+25.jpg: https://www.pinterest.co.uk/pin/32369691055498342/
+26.jpg: https://www.pinterest.co.uk/pin/739997782493400597/
+27.jpg: https://en.wikipedia.org/wiki/File:Aristoteles_Louvre.jpg
+28.jpg: https://raiddesalpilles.wordpress.com/velo-culture/
+29.jpg: https://www.pinterest.co.uk/pin/354799276864649225/
+30.jpg: https://www.pinterest.co.uk/pin/518265869589167243/
