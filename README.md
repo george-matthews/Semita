@@ -8,7 +8,7 @@ The program aims to generate these personalities in the form of 'wiki'-style art
 • Allow rule-based generation of characters and items for the purposes of fictional worldbuilding.
 • Allows a means of automatically generating and representing historically complex structures for educational, entertainment or organisational applications. 
 
-If you want to read more, feel free to read my paper on the subject which can be found [in this link.](https://www.dropbox.com/s/uulqrh8nyle51vz/Semita%20-%20Report.pdf?dl=0).
+If you want to read more, feel free to read my paper on the subject which can be found [in this link.](https://www.dropbox.com/s/uulqrh8nyle51vz/Semita%20-%20Report.pdf?dl=0)
 
 Semita Instructions
 ------------------------
